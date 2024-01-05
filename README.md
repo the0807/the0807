@@ -15,11 +15,11 @@
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=Ubuntu&logoColor=white">
-    <br>
     <img src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white">
     <br>
-    <img src="https://img.shields.io/badge/linux-FCC624?logo=linux&logoColor=black">
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/linux-FFCA28?logo=linux&logoColor=black">
+    <img src="https://img.shields.io/badge/javascript-FFCA28?logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/firebase-FFCA28?logo=firebase&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white">
     <br>
