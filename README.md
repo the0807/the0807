@@ -11,17 +11,23 @@
 </div>
 
 ## 🎓 Education
-Konkuk University Glocal Campus
+<div style="display:flex; flex-direction:row;">
+  Konkuk University Glocal Campus
+</div>
 <br>
-- BS
-<br><br>
-Computer Engineering (2019.03 ~ 2024.02)
+<div style="display:flex; flex-direction:row;">
+  • BS
+</div>
+<div style="display:flex; flex-direction:row;">
+  &nbsp&nbsp Computer Engineering (2019.03 ~ 2024.02)
+</div>
 <br>
-
-- Master
-<br><br>
-Computer Engineering (2024.02 ~ )
-<br><br>
+<div style="display:flex; flex-direction:row;">
+  • Master
+</div>
+<div style="display:flex; flex-direction:row;">
+  &nbsp&nbsp Computer Engineering (2024.02 ~ )
+</div>
 
 <!-- 상태 카드 -->
 <!-- ![the0807's GitHub stats](https://github-readme-stats.vercel.app/api?username=the0807&include_all_commits=true&show_icons=true&count_private=true) -->
@@ -29,7 +35,7 @@ Computer Engineering (2024.02 ~ )
 <!-- Stack -->
 ## 🛠️ Stacks
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <div align = "center">
+    <div>
     <img src="https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white">
     <img src="https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white">
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=OpenCV&logoColor=white">
@@ -63,20 +69,80 @@ Computer Engineering (2024.02 ~ )
 </div>
 <br>
 
-## 🏆 Awards
-2021년 산림공공-빅데이터 활용 창업경진대회 (제품 및 서비스 개발부문 우수상)
-<br>
-2021 Forest Public-Big Data Startup Contest (Best Award in Product and Service Development)
-<br><br>
-자율배송 운행데이터 데이터톤 2021 (AI 모델 개발 부분 3등)
-<br>
-Autonomous delivery operation data tone 2021 (third in AI model development)
-<br><br>
-제10회 KU창업경진대회 (우수상)
-<br>
-The 10th KU Startup Competition's (Excellence Award)
+## 😆 Experience
+<div style="display:flex; flex-direction:row;">
+  • HCI 연구실
+</div>
+<div style="display:flex; flex-direction:row;">
+  &nbsp&nbsp 컴퓨터공학과 서버실
+</div>
 <br>
 
+<div style="display:flex; flex-direction:row;">
+  • 2021년 산림공공-빅데이터 활용 창업경진대회
+</div>
+<div style="display:flex; flex-direction:row;">
+  &nbsp&nbsp FVS(Forest VR Service) 웹 서비스 개발
+</div>
+<br>
+
+<div style="display:flex; flex-direction:row;">
+  • 자율배송 운행데이터 데이터톤 2021
+</div>
+<div style="display:flex; flex-direction:row;">
+  &nbsp&nbsp 자율주행 AI 모델 개발
+</div>
+<br>
+
+<div style="display:flex; flex-direction:row;">
+  • 키오스크 로봇 개발
+</div>
+<br>
+
+<div style="display:flex; flex-direction:row;">
+  • Kuny Where 웹 서비스 개발
+</div>
+<br>
+
+<div style="display:flex; flex-direction:row;">
+  • ChatGPT 영화 평점/요약 검색 웹 서비스 개발
+</div>
+<br>
+
+<div style="display:flex; flex-direction:row;">
+  • 서울 지하철 이용객 빅데이터 분석 및 시각화
+</div>
+<br>
+
+<div style="display:flex; flex-direction:row;">
+  • 간호 업무 지원 로봇(Care Mate) 개발에 관한 연구
+</div>
+<br>
+
+## 🏆 Awards
+<div style="display:flex; flex-direction:row;">
+  • 2021년 산림공공-빅데이터 활용 창업경진대회 (제품 및 서비스 개발부문 우수상)
+</div>
+<div style="display:flex; flex-direction:row;">
+  &nbsp&nbsp 2021 Forest Public-Big Data Startup Contest (Best Award in Product and Service Development)
+</div>
+<br>
+
+<div style="display:flex; flex-direction:row;">
+  • 자율배송 운행데이터 데이터톤 2021 (AI 모델 개발 부분 3등)
+</div>
+<div style="display:flex; flex-direction:row;">
+  &nbsp&nbsp Autonomous delivery operation data tone 2021 (third in AI model development)
+</div>
+<br>
+
+<div style="display:flex; flex-direction:row;">
+  • 제10회 KU창업경진대회 (우수상)
+</div>
+<div style="display:flex; flex-direction:row;">
+  &nbsp&nbsp The 10th KU Startup Competition's (Excellence Award)
+</div>
+<br>
 
 <!-- Contact -->
 <!--
