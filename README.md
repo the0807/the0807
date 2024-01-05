@@ -75,7 +75,7 @@ Autonomous delivery operation data tone 2021 (third in AI model development)
 제10회 KU창업경진대회 (우수상)
 <br>
 The 10th KU Startup Competition's (Excellence Award)
-
+<br>
 
 
 <!-- Contact -->
