@@ -9,7 +9,7 @@
 <!-- ![the0807's GitHub stats](https://github-readme-stats.vercel.app/api?username=the0807&include_all_commits=true&show_icons=true) -->
 
 <!-- Stack -->
-## 🛠️ Stack
+## 🛠️ Stacks
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <div align = "center">
     <img src="https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white">
