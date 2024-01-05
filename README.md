@@ -28,6 +28,7 @@
 <div style="display:flex; flex-direction:row;">
   &nbsp&nbsp Computer Engineering (2024.02 ~ )
 </div>
+<br>
 
 <!-- 상태 카드 -->
 <!-- ![the0807's GitHub stats](https://github-readme-stats.vercel.app/api?username=the0807&include_all_commits=true&show_icons=true&count_private=true) -->
