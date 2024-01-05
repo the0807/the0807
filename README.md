@@ -1,7 +1,7 @@
 <!-- 인사 -->
 <div align = "center">
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=0:43cea2,100:185a9d&fontColor=f7f5f5&text=Welcome%20to%20Tae%20Hyun's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=0:43cea2,100:185a9d&fontColor=f7f5f5&text=Welcome%20to%20the0807's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 </div>
 
