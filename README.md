@@ -12,7 +12,7 @@
 
 ## 🎓 Education
 Konkuk University Glocal Campus
-<br><br>
+<br>
 - BS
 <br><br>
 Computer Engineering (2019.03 ~ 2024.02)
