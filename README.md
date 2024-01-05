@@ -4,9 +4,27 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=0:43cea2,100:185a9d&fontColor=f7f5f5&text=Welcome%20to%20TaeHyun's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 </div>
+<div align = "center" style="display:flex; flex-direction:row;">
+  <a href="mailto:the0807.eom@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=the0807.eom@gmail.com"> 
+  </a>
+</div>
+
+## 🎓 Education
+Konkuk University Glocal Campus
+<br><br>
+- BS
+<br><br>
+Computer Engineering (2019.03 ~ 2024.02)
+<br>
+
+- Master
+<br><br>
+Computer Engineering (2024.02 ~ )
+<br><br>
 
 <!-- 상태 카드 -->
-<!-- ![the0807's GitHub stats](https://github-readme-stats.vercel.app/api?username=the0807&include_all_commits=true&show_icons=true) -->
+<!-- ![the0807's GitHub stats](https://github-readme-stats.vercel.app/api?username=the0807&include_all_commits=true&show_icons=true&count_private=true) -->
 
 <!-- Stack -->
 ## 🛠️ Stacks
@@ -43,15 +61,18 @@
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
     <br>
 </div>
+<br>
 
 <!-- Contact -->
+<!--
 ## 📞 Contact
 <div align = "center" style="display:flex; flex-direction:row;">
   <a href="mailto:the0807.eom@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=the0807.eom@gmail.com"> 
   </a>
 </div>
-
+<br>
+-->
 
 <!--
 **the0807/the0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
