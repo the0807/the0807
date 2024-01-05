@@ -1,5 +1,9 @@
 <!-- 인사 -->
+<div align = "center">
+
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=0:43cea2,100:185a9d&fontColor=f7f5f5&text=Welcome%20to%20Tae%20Hyun's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+
+</div>
 
 <!-- 상태 카드 -->
 <!-- ![the0807's GitHub stats](https://github-readme-stats.vercel.app/api?username=the0807&include_all_commits=true&show_icons=true) -->
