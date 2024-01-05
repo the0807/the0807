@@ -63,6 +63,9 @@ Computer Engineering (2024.02 ~ )
 </div>
 <br>
 
+## 🏆 Award
+2021 Forest Public-Big Data Startup Contest (Best Award in Product and Service Development)
+
 <!-- Contact -->
 <!--
 ## 📞 Contact
