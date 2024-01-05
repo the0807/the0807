@@ -63,8 +63,20 @@ Computer Engineering (2024.02 ~ )
 </div>
 <br>
 
-## 🏆 Award
+## 🏆 Awards
+2021년 산림공공-빅데이터 활용 창업경진대회 (제품 및 서비스 개발부문 우수상)
+<br>
 2021 Forest Public-Big Data Startup Contest (Best Award in Product and Service Development)
+<br><br>
+자율배송 운행데이터 데이터톤 2021 (AI 모델 개발 부분 3등)
+<br>
+Autonomous delivery operation data tone 2021 (third in AI model development)
+<br><br>
+제10회 KU창업경진대회 (우수상)
+<br>
+The 10th KU Startup Competition's (Excellence Award)
+
+
 
 <!-- Contact -->
 <!--
