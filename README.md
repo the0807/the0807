@@ -4,6 +4,13 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=0:43cea2,100:185a9d&fontColor=f7f5f5&text=Welcome%20to%20TaeHyun's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 </div>
+
+<div align = "center">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthe0807&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
+
 <div align = "center" style="display:flex; flex-direction:row;">
   <a href="mailto:the0807.eom@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=the0807.eom@gmail.com"> 
