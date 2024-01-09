@@ -33,7 +33,7 @@
   • Master
 </div>
 <div style="display:flex; flex-direction:row;">
-  &nbsp&nbsp Computer Engineering (2024.02 ~ )
+  &nbsp&nbsp Computer Engineering (2024.03 ~ )
 </div>
 <br>
 
