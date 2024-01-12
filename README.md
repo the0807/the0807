@@ -10,13 +10,13 @@
 </div>
 
 <div align = "center">
-<a href="https://the0807.notion.site/96142016cc1141fa800665d9e152d877?pvs=4" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Notion-181717?logo=Notion&logoColor=white">
-</a>
-<br>
-<a href="mailto:the0807.eom@gmail.com" style="text-decoration: none;">
+  <a href="https://the0807.notion.site/96142016cc1141fa800665d9e152d877?pvs=4" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Notion-181717?logo=Notion&logoColor=white">
+  </a>
+  <br>
+  <a href="mailto:the0807.eom@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=the0807.eom@gmail.com">
-</a>
+  </a>
 </div>
 <br>
 
