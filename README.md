@@ -8,6 +8,7 @@
 <div align = "center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthe0807&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visit&edge_flat=false">
 </div>
+<br>
 
 <div align = "center">
   <a href="https://the0807.notion.site/96142016cc1141fa800665d9e152d877?pvs=4" style="text-decoration: none;">
