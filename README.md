@@ -16,6 +16,16 @@
     <img src="https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=the0807.eom@gmail.com"> 
   </a>
 </div>
+<br>
+
+<!-- 상태 카드 -->
+<div align = "center" style="display:flex; flex-direction:row;">
+  <a>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=the0807&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&rank_icon=github&hide_title=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the0807&layout=compact&langs_count=8&card_width=320&hide_title=true" />
+  </a>
+</div>
+<br>
 
 ## 🎓 Education
 <div style="display:flex; flex-direction:row;">
@@ -70,14 +80,6 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
     <br>
 </div>
-<br>
-
-<!-- 상태 카드 -->
-<a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=the0807&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&hide_title=true" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the0807&layout=compact&langs_count=8&card_width=320" />
-</a>
-
 <br>
 
 ## 😆 Experience
