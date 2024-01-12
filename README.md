@@ -135,6 +135,11 @@
 </div>
 <br>
 
+<div style="display:flex; flex-direction:row;">
+  • Sidewalk Obstacle Detection 모델 개발
+</div>
+<br>
+
 ## 🏆 Awards
 <div style="display:flex; flex-direction:row;">
   • 2021년 산림공공-빅데이터 활용 창업경진대회 (제품 및 서비스 개발부문 우수상)
