@@ -24,6 +24,38 @@
 <br>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-274-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 67.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 86 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 8 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I Mostly Code in Jupyter Notebook** 
+
+```text
+Jupyter Notebook         2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Python                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+PHP                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+CSS                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+C++                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/the0807/the0807/main/assets/bar_graph.png)
+
+
+ Last Updated on 12/01/2024 15:25:36 UTC
 <!--END_SECTION:waka-->
 
 ## 🎓 Education
