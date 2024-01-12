@@ -7,10 +7,16 @@
 
 <div align = "center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthe0807&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visit&edge_flat=false">
+</div>
 
-  <a href="mailto:the0807.eom@gmail.com">
+<div align = "center">
+<a href="https://the0807.notion.site/96142016cc1141fa800665d9e152d877?pvs=4" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Notion-181717?logo=Notion&logoColor=white">
+</a>
+<br>
+<a href="mailto:the0807.eom@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=the0807.eom@gmail.com">
-  </a>
+</a>
 </div>
 <br>
 
@@ -79,11 +85,6 @@
 <br>
 
 ## 😆 Experience
-<a href="https://the0807.notion.site/96142016cc1141fa800665d9e152d877?pvs=4">
-  <img src="https://img.shields.io/badge/Notion-181717?logo=Notion&logoColor=white">
-</a>
-<br><br>
-
 <div style="display:flex; flex-direction:row;">
   • HCI 연구실
 </div>
