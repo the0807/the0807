@@ -19,14 +19,12 @@
 <br>
 
 <!-- 상태 카드 -->
-<div align = "center" style="display:flex; flex-direction:row;">
-  <a href="">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=the0807&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&rank_icon=github&hide_title=true" />
-  </a>
-  <a href="">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the0807&layout=compact&langs_count=8&card_width=320&hide_title=true" />
-  </a>
-</div>
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=the0807&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&rank_icon=github&hide_title=true" />
+</a>
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the0807&layout=compact&langs_count=8&card_width=320&hide_title=true" />
+</a>
 <br>
 
 ## 🎓 Education
