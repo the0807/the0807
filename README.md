@@ -46,7 +46,7 @@
     <div>
     <img src="https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white">
     <img src="https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white">
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=OpenCV&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/Raspberry Pi-A22846?logo=Raspberry-Pi&logoColor=white">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=Ubuntu&logoColor=white">
@@ -66,13 +66,11 @@
     <br>
     <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white">
     <img src="https://img.shields.io/badge/Vuetify-1867C0?logo=Vuetify">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=OpenCV&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/C++-3776AB?logo=C%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C/C++-3776AB?logo=C%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
     <br>
 </div>
 <br>
