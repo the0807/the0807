@@ -23,10 +23,6 @@
 </div>
 <br>
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
 ## 🎓 Education
 <div style="display:flex; flex-direction:row;">
   Konkuk University Glocal Campus
