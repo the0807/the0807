@@ -18,7 +18,7 @@
 <div align = "center" style="display:flex; flex-direction:row;">
   <a href="">
     <img height=200 align="center" src="https://github-readme-stats-the0807s-projects.vercel.app/api?username=the0807&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&rank_icon=github&custom_title=Git%20Stats" />
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the0807&layout=compact&langs_count=8&card_width=320" />
+    <img height=200 align="center" src="https://github-readme-stats-the0807s-projects.vercel.app/api/top-langs?username=the0807&layout=compact&langs_count=8&card_width=320" />
   </a>
 </div>
 <br>
