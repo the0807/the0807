@@ -1,7 +1,7 @@
 <!-- 인사 -->
 <div align = "center">
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=0:43cea2,100:185a9d&fontColor=f7f5f5&text=Welcome%20to%20TaeHyun's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=0:43cea2,100:185a9d&fontColor=f7f5f5&text=Welcome%20to%20Taehyun's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 </div>
 
@@ -136,7 +136,6 @@
 </div>
 <br>
 
-<!--
 <div style="display:flex; flex-direction:row;">
   • 자율배송 운행데이터 데이터톤 2021 (AI 모델 개발 부분 3등)
 </div>
@@ -144,7 +143,6 @@
   &nbsp&nbsp Autonomous delivery operation data tone 2021 (third in AI model development)
 </div>
 <br>
--->
 
 <div style="display:flex; flex-direction:row;">
   • 제10회 KU창업경진대회 (우수상)
