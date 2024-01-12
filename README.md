@@ -37,9 +37,6 @@
 </div>
 <br>
 
-<!-- 상태 카드 -->
-<!-- ![the0807's GitHub stats](https://github-readme-stats.vercel.app/api?username=the0807&include_all_commits=true&show_icons=true&count_private=true) -->
-
 <!-- Stack -->
 ## 🛠️ Stacks
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -73,6 +70,14 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
     <br>
 </div>
+<br>
+
+<!-- 상태 카드 -->
+<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=the0807&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&hide_title=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the0807&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 <br>
 
 ## 😆 Experience
