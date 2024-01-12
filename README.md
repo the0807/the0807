@@ -36,10 +36,6 @@ C++                      1 repo              ███░░░░░░░░�
 
 
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/the0807/the0807/main/assets/bar_graph.png)
-
 
 <!--END_SECTION:waka-->
 
