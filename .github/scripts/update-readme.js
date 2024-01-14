@@ -26,7 +26,8 @@ async function getGistContent() {
 
       // Update README.md with modified content
       fs.writeFileSync('README.md', readmeContent);
-      
+
+      console.log(readmeContent)
       console.log('README.md updated successfully.');
     } else {
       console.error(`Failed to fetch Gist. Status: ${response.status}`);
