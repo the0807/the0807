@@ -20,7 +20,7 @@ jobs:
       - name: Install Dependencies
         run: |
           npm install
-          npm install node-fetch
+          npm install isomorphic-fetch
 
       - name: Run Script to Update README
         run: node .github/scripts/update-readme.js
