@@ -30,9 +30,6 @@
 </div>
 <br>
 
-<!-- GIST_CONTENT_START -->
-<!-- GIST_CONTENT_END -->
-
 ## 🎓 Education
 <div style="display:flex; flex-direction:row;">
   Konkuk University Glocal Campus
