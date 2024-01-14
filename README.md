@@ -9,16 +9,6 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthe0807&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visit&edge_flat=false">
 </div>
 
-<div align = "center">
-  <a href="https://the0807.notion.site/96142016cc1141fa800665d9e152d877?pvs=4" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Notion-181717?logo=Notion&logoColor=white">
-  </a>
-
-  <a href="mailto:the0807.eom@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=the0807.eom@gmail.com">
-  </a>
-</div>
-
 <!-- 상태 카드 -->
 <div align = "center" style="display:flex; flex-direction:row;">
   <a>
@@ -26,7 +16,6 @@
     <img height=200 align="center" src="https://github-readme-stats-the0807s-projects.vercel.app/api/top-langs?username=the0807&layout=compact&langs_count=8&hide_border=true&card_width=320&count_private=true&theme=transparent" />
   </a>
 </div>
-<br>
 
 <!-- GIST_START_MARKER -->
 <pre align = "center">
@@ -38,6 +27,16 @@ I'm a night 🦉
 🌙 Night     108 commits  ██████▉░░░░░░░░░░░░░░  33.0%
 </pre>
 <!-- GIST_END_MARKER -->
+
+<div align = "center">
+  <a href="https://the0807.notion.site/96142016cc1141fa800665d9e152d877?pvs=4" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Notion-181717?logo=Notion&logoColor=white">
+  </a>
+
+  <a href="mailto:the0807.eom@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=the0807.eom@gmail.com">
+  </a>
+</div>
 <br>
 
 ## 🎓 Education
