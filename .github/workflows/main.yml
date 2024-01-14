@@ -3,6 +3,7 @@ name: Update README
 on:
   schedule:
     - cron: '0 0 * * *' # 매일 자정에 실행하도록 예약됨. 필요에 따라 수정 가능.
+  workflow_dispatch:
 
 jobs:
   update-readme:
