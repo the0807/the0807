@@ -16,52 +16,52 @@ jobs:
     - name: Update README from Gist
       run: |
         python - <<EOF
-          import requests
-          from requests.auth import HTTPBasicAuth
-          
-          # GitHub 계정 정보
-          username = '$USERNAME'  # GitHub 사용자명
-          token = '$TOKEN'  # GitHub 토큰
-          
-          # 사용자의 Gist 목록 가져오기
-          gists_url = f'https://api.github.com/users/{username}/gists'
-          response = requests.get(gists_url, auth=HTTPBasicAuth(username, token))
-          
-          if response.status_code == 200:
-              gists = response.json()
-              
-              # 첫 번째 Gist의 첫 번째 파일을 가져와서 특정 부분을 README에 추가
-              if gists:
-                  gist_id = gists[0]['id']
-                  gist_content_url = f'https://api.github.com/gists/{gist_id}'
-                  gist_content_response = requests.get(gist_content_url, auth=HTTPBasicAuth(username, token))
-          
-                  if gist_content_response.status_code == 200:
-                      gist_content = gist_content_response.json()
-                      first_file_content = list(gist_content['files'].values())[0]['content']
-                      lines_to_insert = '\n'.join(first_file_content.splitlines()[:10])  # 예제에서는 첫 번째 파일의 첫 10줄을 가져옴
-          
-                      # README 파일에서 특정 부분을 찾아 업데이트
-                      with open('README.md', 'r') as readme_file:
-                          readme_content = readme_file.read()
-                          start_marker = '<!-- GIST_CONTENT_START -->'
-                          end_marker = '<!-- GIST_CONTENT_END -->'
-                          start_index = readme_content.find(start_marker) + len(start_marker)
-                          end_index = readme_content.find(end_marker)
-          
-                          updated_readme = readme_content[:start_index] + '\n' + lines_to_insert + readme_content[end_index:]
-          
-                      # README 파일에 업데이트된 내용 쓰기
-                      with open('README.md', 'w') as readme_file:
-                          readme_file.write(updated_readme)
-                          print(f'Updated README from Gist successfully!')
-                  else:
-                      print(f'Error getting Gist content. Status code: {gist_content_response.status_code}\nError message: {gist_content_response.text}')
-              else:
-                  print(f'No Gists found for the user.')
-          else:
-              print(f'Error getting Gists. Status code: {response.status_code}\nError message: {response.text}')
-        EOF
+import requests
+from requests.auth import HTTPBasicAuth
+
+# GitHub 계정 정보
+username = '$USERNAME'  # GitHub 사용자명
+token = '$TOKEN'  # GitHub 토큰
+
+# 사용자의 Gist 목록 가져오기
+gists_url = f'https://api.github.com/users/{username}/gists'
+response = requests.get(gists_url, auth=HTTPBasicAuth(username, token))
+
+if response.status_code == 200:
+    gists = response.json()
+    
+    # 첫 번째 Gist의 첫 번째 파일을 가져와서 특정 부분을 README에 추가
+    if gists:
+        gist_id = gists[0]['id']
+        gist_content_url = f'https://api.github.com/gists/{gist_id}'
+        gist_content_response = requests.get(gist_content_url, auth=HTTPBasicAuth(username, token))
+
+        if gist_content_response.status_code == 200:
+            gist_content = gist_content_response.json()
+            first_file_content = list(gist_content['files'].values())[0]['content']
+            lines_to_insert = '\n'.join(first_file_content.splitlines()[:10])  # 예제에서는 첫 번째 파일의 첫 10줄을 가져옴
+
+            # README 파일에서 특정 부분을 찾아 업데이트
+            with open('README.md', 'r') as readme_file:
+                readme_content = readme_file.read()
+                start_marker = '<!-- GIST_CONTENT_START -->'
+                end_marker = '<!-- GIST_CONTENT_END -->'
+                start_index = readme_content.find(start_marker) + len(start_marker)
+                end_index = readme_content.find(end_marker)
+
+                updated_readme = readme_content[:start_index] + '\n' + lines_to_insert + readme_content[end_index:]
+
+            # README 파일에 업데이트된 내용 쓰기
+            with open('README.md', 'w') as readme_file:
+                readme_file.write(updated_readme)
+                print(f'Updated README from Gist successfully!')
+        else:
+            print(f'Error getting Gist content. Status code: {gist_content_response.status_code}\nError message: {gist_content_response.text}')
+    else:
+        print(f'No Gists found for the user.')
+else:
+    print(f'Error getting Gists. Status code: {response.status_code}\nError message: {response.text}')
+EOF
       env:
         USERNAME: ${{ secrets.GH_USERNAME }}
         TOKEN: ${{ secrets.GH_TOKEN }}
