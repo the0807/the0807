@@ -30,18 +30,6 @@
 </div>
 <br>
 
-<!--
-<div align = "center" style="display:flex; flex-direction:row;">
-  <a>
-    <img height=200 align="center" src="https://github-readme-stats-the0807s-projects.vercel.app/api/gist?id=ecae8fda1d46809a13767fce0f1d9e6c&hide_border=true&theme=transparent" />
-  </a>
-  
-  [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
-
-</div>
-<br>
--->
-
 ## 🎓 Education
 <div style="display:flex; flex-direction:row;">
   Konkuk University Glocal Campus
