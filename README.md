@@ -1,9 +1,4 @@
 <!-- 인사 -->
-<div align = "🌞 Morning     7 commits  ▍░░░░░░░░░░░░░░░░░░░░   2.3%
-🌆 Daytime   119 commits  ████████▍░░░░░░░░░░░░  39.9%
-🌃 Evening   111 commits  ███████▊░░░░░░░░░░░░░  37.2%
-🌙 Night      61 commits  ████▎░░░░░░░░░░░░░░░░  20.5%<!-- 인사 -->
-<div align = "center">
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=0:43cea2,100:185a9d&fontColor=f7f5f5&text=Welcome%20to%20Taehyun's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
