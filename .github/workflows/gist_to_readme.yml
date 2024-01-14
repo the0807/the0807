@@ -62,5 +62,5 @@ jobs:
               print(f'Error getting Gists. Status code: {response.status_code}\nError message: {response.text}')
         EOF
       env:
-        USERNAME: ${{ secrets.GITHUB_USERNAME }}
-        TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        USERNAME: ${{ secrets.GH_USERNAME }}
+        TOKEN: ${{ secrets.GH_TOKEN }}
