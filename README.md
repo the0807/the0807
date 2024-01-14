@@ -18,7 +18,6 @@
     <img src="https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=the0807.eom@gmail.com">
   </a>
 </div>
-<br>
 
 <!-- 상태 카드 -->
 <div align = "center" style="display:flex; flex-direction:row;">
