@@ -22,7 +22,7 @@ async function getGistContent() {
       const endMarker = '<!-- GIST_END_MARKER -->'; // 엔터 추가
       const startIndex = readmeContent.indexOf(startMarker) + startMarker.length;
       const endIndex = readmeContent.indexOf(endMarker);
-      readmeContent = readmeContent.substring(0, startIndex) + '1212' + readmeContent.substring(endIndex);
+      readmeContent = readmeContent.substring(0, startIndex) + '\n' + '1234435t' + '\n' + readmeContent.substring(endIndex);
 
       // Update README.md with modified content
       fs.writeFileSync('README.md', readmeContent);
