@@ -18,7 +18,9 @@ jobs:
           node-version: 14
 
       - name: Install Dependencies
-        run: npm install
+        run: |
+          npm install
+          npm install node-fetch
 
       - name: Run Script to Update README
         run: node .github/scripts/update-readme.js
