@@ -13,6 +13,8 @@ async function getGistContent() {
       const files = data.files;
       const contentArray = Object.values(files).map(file => file.content);
       const combinedContent = contentArray.join('\n\n');
+
+      const nameArray = Object.values(files).map(file => file.filename);
       
       // Read existing README.md
       let readmeContent = fs.readFileSync('README.md', 'utf-8');
@@ -22,7 +24,7 @@ async function getGistContent() {
       const endMarker = '<!-- GIST_END_MARKER -->'; // 엔터 추가
       const startIndex = readmeContent.indexOf(startMarker) + startMarker.length;
       const endIndex = readmeContent.indexOf(endMarker);
-      readmeContent = readmeContent.substring(0, startIndex) + '\n' + combinedContent + '\n' + readmeContent.substring(endIndex);
+      readmeContent = readmeContent.substring(0, startIndex) + '\n' + '<pre align = "center">' + nameArray + '\n' + combinedContent + '</pre>' + '\n' + readmeContent.substring(endIndex);
 
       // Update README.md with modified content
       fs.writeFileSync('README.md', readmeContent);
