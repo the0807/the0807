@@ -39,6 +39,7 @@ I'm a night 🦉
 🌙 Night     108 commits  ██████▉░░░░░░░░░░░░░░  33.0%
 </pre>
 <!-- GIST_END_MARKER -->
+<br>
 
 ## 🎓 Education
 <div style="display:flex; flex-direction:row;">
