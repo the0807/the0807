@@ -25,8 +25,6 @@ async function getGistContent() {
       const startIndex = readmeContent.indexOf(startMarker) + startMarker.length;
       const endIndex = readmeContent.indexOf(endMarker);
       readmeContent = readmeContent.substring(0, startIndex) + '\n' + '<pre align = "center">' + '\n' + nameArray + '\n\n' + combinedContent + '\n' + '</pre>' + '\n' + readmeContent.substring(endIndex);
-
-      console.log(readmeContent);
       
       // Update README.md with modified content
       fs.writeFileSync('README.md', readmeContent);
