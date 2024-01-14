@@ -30,7 +30,8 @@
 </div>
 <br>
 
-<!-- GIST_CONTENT_MARKER -->
+<!-- GIST_START_MARKER -->
+<!-- GIST_END_MARKER -->
 
 ## 🎓 Education
 <div style="display:flex; flex-direction:row;">
