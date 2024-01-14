@@ -15,7 +15,7 @@ async function getGistContent() {
       const combinedContent = contentArray.join('\n\n');
       
       // Read existing README.md
-      let readmeContent = fs.readFileSync('README.md', 'utf-8');
+      let readmeContent = fs.readFileSync('../../README.md', 'utf-8');
 
       // Replace content between markers with Gist content
       const startMarker = '<!-- GIST_START_MARKER -->';
