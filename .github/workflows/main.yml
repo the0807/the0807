@@ -26,3 +26,11 @@ jobs:
         run: node .github/scripts/update-readme.js
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "the0807"
+          git config user.email "the0807.eom@gmail.com"
+          git add README.md
+          git commit -m "Auto update README.md"
+          git push
