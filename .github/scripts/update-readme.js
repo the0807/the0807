@@ -13,6 +13,8 @@ async function getGistContent() {
       const files = data.files;
       const contentArray = Object.values(files).map(file => file.content);
       const combinedContent = contentArray.join('\n\n');
+
+      console.log(combinedContent);
       
       // Read existing README.md
       let readmeContent = fs.readFileSync('README.md', 'utf-8');
