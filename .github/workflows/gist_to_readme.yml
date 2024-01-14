@@ -21,9 +21,9 @@ jobs:
 
     - name: Update specific section in README
       run: |
-        GIST_ID="your-gist-id-here"
-        FILE_NAME="your-file-name-in-gist.txt"
-        ACCESS_TOKEN="${{ secrets.GITHUB_TOKEN }}"
+        GIST_ID="${{ secrets.GIST_ID }}"
+        FILE_NAME="file-i-m-a-night"
+        ACCESS_TOKEN="${{ secrets.GH_TOKEN }}"
 
         GIST_CONTENT=$(curl -s -H "Authorization: token $ACCESS_TOKEN" "https://api.github.com/gists/$GIST_ID" | jq -r ".files.\"$FILE_NAME\".content")
 
