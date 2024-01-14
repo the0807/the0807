@@ -20,8 +20,8 @@ async function getGistContent() {
       let readmeContent = fs.readFileSync('README.md', 'utf-8');
       
       // Replace content between markers with Gist content
-      const startMarker = '<!-- GIST_START_MARKER -->'; // 엔터 추가
-      const endMarker = '<!-- GIST_END_MARKER -->'; // 엔터 추가
+      const startMarker = '<!-- GIST_START_MARKER -->';
+      const endMarker = '<!-- GIST_END_MARKER -->';
       const startIndex = readmeContent.indexOf(startMarker) + startMarker.length;
       const endIndex = readmeContent.indexOf(endMarker);
       readmeContent = readmeContent.substring(0, startIndex) + '\n' + '<pre align = "center">' + '\n' + nameArray + '\n\n' + combinedContent + '\n' + '</pre>' + '\n' + readmeContent.substring(endIndex);
