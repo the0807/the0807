@@ -18,11 +18,11 @@ async function getGistContent() {
       let readmeContent = fs.readFileSync('README.md', 'utf-8');
       
       // Replace content between markers with Gist content
-      const startMarker = '<!-- GIST_START_MARKER -->\n'; // 엔터 추가
-      const endMarker = '\n<!-- GIST_END_MARKER -->'; // 엔터 추가
+      const startMarker = '<!-- GIST_START_MARKER -->'; // 엔터 추가
+      const endMarker = '<!-- GIST_END_MARKER -->'; // 엔터 추가
       const startIndex = readmeContent.indexOf(startMarker) + startMarker.length;
       const endIndex = readmeContent.indexOf(endMarker);
-      readmeContent = readmeContent.substring(0, startIndex) + combinedContent + readmeContent.substring(endIndex);
+      readmeContent = readmeContent.substring(0, startIndex) + '1212' + readmeContent.substring(endIndex);
 
       // Update README.md with modified content
       fs.writeFileSync('README.md', readmeContent);
