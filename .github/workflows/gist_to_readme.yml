@@ -1,67 +1,40 @@
-name: Update README from Gist
-
+name: Update specific section in README
 on:
   schedule:
-    - cron: '0 0 * * *'  # 매일 자정에 실행
+    - cron: '0 0 * * *' # 매일 자정에 실행되도록 예약된 작업
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Update README from Gist
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '14'
+
+    - name: Install dependencies
+      run: npm install github-api
+
+    - name: Update specific section in README
       run: |
-        python - <<EOF
-import requests
-from requests.auth import HTTPBasicAuth
+        GIST_ID="your-gist-id-here"
+        FILE_NAME="your-file-name-in-gist.txt"
+        ACCESS_TOKEN="${{ secrets.GITHUB_TOKEN }}"
 
-# GitHub 계정 정보
-username = '$USERNAME'  # GitHub 사용자명
-token = '$TOKEN'  # GitHub 토큰
+        GIST_CONTENT=$(curl -s -H "Authorization: token $ACCESS_TOKEN" "https://api.github.com/gists/$GIST_ID" | jq -r ".files.\"$FILE_NAME\".content")
 
-# 사용자의 Gist 목록 가져오기
-gists_url = f'https://api.github.com/users/{username}/gists'
-response = requests.get(gists_url, auth=HTTPBasicAuth(username, token))
+        # 이 부분에서 README.md 파일의 특정 부분을 업데이트하는 스크립트를 작성
+        # 예를 들어, sed 명령어를 사용하여 특정 문자열을 치환하는 방법:
+        sed -i 's|<!-- GIST_CONTENT_START -->.*<!-- GIST_CONTENT_END -->|<!-- GIST_CONTENT_START -->'"$GIST_CONTENT"'<!-- GIST_CONTENT_END -->|' README.md
 
-if response.status_code == 200:
-    gists = response.json()
-    
-    # 첫 번째 Gist의 첫 번째 파일을 가져와서 특정 부분을 README에 추가
-    if gists:
-        gist_id = gists[0]['id']
-        gist_content_url = f'https://api.github.com/gists/{gist_id}'
-        gist_content_response = requests.get(gist_content_url, auth=HTTPBasicAuth(username, token))
-
-        if gist_content_response.status_code == 200:
-            gist_content = gist_content_response.json()
-            first_file_content = list(gist_content['files'].values())[0]['content']
-            lines_to_insert = '\n'.join(first_file_content.splitlines()[:10])  # 예제에서는 첫 번째 파일의 첫 10줄을 가져옴
-
-            # README 파일에서 특정 부분을 찾아 업데이트
-            with open('README.md', 'r') as readme_file:
-                readme_content = readme_file.read()
-                start_marker = '<!-- GIST_CONTENT_START -->'
-                end_marker = '<!-- GIST_CONTENT_END -->'
-                start_index = readme_content.find(start_marker) + len(start_marker)
-                end_index = readme_content.find(end_marker)
-
-                updated_readme = readme_content[:start_index] + '\n' + lines_to_insert + readme_content[end_index:]
-
-            # README 파일에 업데이트된 내용 쓰기
-            with open('README.md', 'w') as readme_file:
-                readme_file.write(updated_readme)
-                print(f'Updated README from Gist successfully!')
-        else:
-            print(f'Error getting Gist content. Status code: {gist_content_response.status_code}\nError message: {gist_content_response.text}')
-    else:
-        print(f'No Gists found for the user.')
-else:
-    print(f'Error getting Gists. Status code: {response.status_code}\nError message: {response.text}')
-EOF
-      env:
-        USERNAME: ${{ secrets.GH_USERNAME }}
-        TOKEN: ${{ secrets.GH_TOKEN }}
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'GitHub Actions'
+        git config --global user.email 'actions@github.com'
+        git add README.md
+        git commit -m "Update specific section in README"
+        git push
