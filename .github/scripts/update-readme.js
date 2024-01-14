@@ -1,5 +1,5 @@
-const fetch = require('node-fetch');
-const fs = require('fs');
+import fetch from 'isomorphic-fetch';
+import fs from 'fs';
 
 const gistId = 'ecae8fda1d46809a13767fce0f1d9e6c'; // 본인 Gist의 ID로 대체
 const gistApiUrl = `https://api.github.com/gists/${gistId}`;
