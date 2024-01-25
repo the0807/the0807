@@ -149,6 +149,14 @@ I'm an early 🐤
 </div>
 <br>
 
+<div style="display:flex; flex-direction:row;">
+  • 제3회 아이디어 공모전 - 빅데이터 활용 미래 사회문제 해결 아이디어 해커톤
+</div>
+<div style="display:flex; flex-direction:row;">
+  &nbsp&nbsp Greenery 앱 서비스 개발
+</div>
+<br>
+
 ## 🏆 Awards
 <div style="display:flex; flex-direction:row;">
   • 2021년 산림공공-빅데이터 활용 창업경진대회 (제품 및 서비스 개발부문 우수상)
