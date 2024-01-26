@@ -66,6 +66,7 @@ I'm an early 🐤
   <img src="https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white">
   <img src="https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?logo=Raspberry-Pi&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=Ubuntu&logoColor=white">
