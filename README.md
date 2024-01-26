@@ -17,10 +17,6 @@
   </a>
 </div>
 
-<!-- GIST_START_MARKER -->
-
-<!-- GIST_END_MARKER -->
-
 <div align = "center">
   <a href="https://the0807.notion.site/96142016cc1141fa800665d9e152d877?pvs=4" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Notion-181717?logo=Notion&logoColor=white">
