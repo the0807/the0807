@@ -13,7 +13,7 @@ async function getGistContent() {
     if (response.ok) {
       const files = data.files;
       const contentArray = Object.values(files).map(file => file.content);
-      const combinedContent = contentArray.join('\r\n\r\n');
+      const combinedContent = contentArray.join('\r\n\r\n\r\n\r\n\r\n\r\n');
       const nameArray = Object.values(files).map(file => file.filename);
 
       // Read existing README.md
