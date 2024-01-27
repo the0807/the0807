@@ -55,6 +55,7 @@
 <div align = "center" style="display:flex; flex-direction:column; align-items:flex-start;">
   <div>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/C/C++-3776AB?logo=C%2B%2B&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=white">&nbsp
   <br>
@@ -69,8 +70,8 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white">&nbsp
   <br>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=Ubuntu&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white">&nbsp
 </div>
 <br>
