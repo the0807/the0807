@@ -134,7 +134,7 @@
   • 제3회 아이디어 공모전 - 빅데이터 활용 미래 사회문제 해결 아이디어 해커톤
 </div>
 <div style="display:flex; flex-direction:row;">
-  &nbsp&nbsp Greenery 앱 서비스 개발
+  &nbsp&nbsp Greenery : AI를 활용한 분리 배출 방법 안내 앱
 </div>
 <br>
 
