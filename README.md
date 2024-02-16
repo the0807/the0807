@@ -126,6 +126,11 @@
 <br>
 
 <div style="display:flex; flex-direction:row;">
+  • D사 통합 관리 웹 개발
+</div>
+<br>
+
+<div style="display:flex; flex-direction:row;">
   • Sidewalk Obstacle Detection 모델 개발
 </div>
 <br>
