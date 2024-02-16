@@ -1,9 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 <!-- 인사 -->
 <div align = "center">
 
@@ -58,14 +52,6 @@ td, th {
 
 <!-- Stack -->
 ## 🛠️ Stacks
-
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/C/C++-3776AB?logo=C%2B%2B&logoColor=white"/> | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white"> | <img src="https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=white">
-|:---:|:---:|:---:|:---:|
-<img src="https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white"> | <img src="https://img.shields.io/badge/Jetson-76B900?logo=nvidia&logoColor=white"> | <img src="https://img.shields.io/badge/Raspberry Pi-A22846?logo=Raspberry-Pi&logoColor=white"> | <img src="https://img.shields.io/badge/Arduino-00878F?logo=Arduino&logoColor=white">
-<img src="https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white"> | <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white"> | <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"> | <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white">
-<img src="https://img.shields.io/badge/Ubuntu-E95420?logo=Ubuntu&logoColor=white"> | <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white"> | <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white"> | <img src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white">
-
-
 <div align = "center" style="display:flex; flex-direction:column; align-items:flex-start;">  
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/C/C++-3776AB?logo=C%2B%2B&logoColor=white"/>&nbsp
