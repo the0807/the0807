@@ -126,7 +126,7 @@
 <br>
 
 <div style="display:flex; flex-direction:row;">
-  • D사 통합 관리 웹 개발
+  • D사 통합 관리 웹 서비스 개발
 </div>
 <br>
 
