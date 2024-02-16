@@ -51,8 +51,23 @@
 <br>
 
 <!-- Stack -->
-## 🛠️ Stacks
-<div align = "center" style="display:flex; flex-direction:column; align-items:flex-start;">  
+## 🛠️ Stacks  
+<div align = "center" style="display:flex; flex-direction:column; align-items:flex-start;">
+
+  <table style="border-collapse:collapse;">
+  <tr>
+    <td style="border: none;">
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+    </td>
+    <td style="border: none;">
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+    </td>
+    <td style="border: none;">
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+    </td>
+  </tr>
+</table>
+
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/C/C++-3776AB?logo=C%2B%2B&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white">&nbsp
