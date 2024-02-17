@@ -16,7 +16,9 @@
     <img height=200 align="center" src="https://github-readme-stats-the0807s-projects.vercel.app/api/top-langs?username=the0807&layout=compact&langs_count=8&hide_border=true&card_width=320&count_private=true&theme=transparent" />
   </a>
 
+  <!--
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=the0807)](https://solved.ac/the0807/)
+  -->
 </div>
 
 <div align = "center">
