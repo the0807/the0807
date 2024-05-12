@@ -157,6 +157,7 @@
 </div>
 <br>
 
+<!--
 <div style="display:flex; flex-direction:row;">
   • 자율배송 운행데이터 데이터톤 2021 (AI 모델 개발 부분 3등)
 </div>
@@ -164,6 +165,7 @@
   &nbsp&nbsp Autonomous delivery operation data tone 2021 (third in AI model development)
 </div>
 <br>
+-->
 
 <div style="display:flex; flex-direction:row;">
   • 제10회 KU창업경진대회 (우수상)
