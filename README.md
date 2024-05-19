@@ -90,6 +90,14 @@
 <br>
 
 <div style="display:flex; flex-direction:row;">
+  • 미세먼지 농도 측정 서비스 개발
+</div>
+<div style="display:flex; flex-direction:row;">
+  &nbsp&nbsp 아두이노와 라즈베리파이를 활용한 미세먼지 농도 측정 및 웹 모니터링 서비스
+</div>
+<br>
+
+<div style="display:flex; flex-direction:row;">
   • 2021년 산림공공-빅데이터 활용 창업경진대회
 </div>
 <div style="display:flex; flex-direction:row;">
