@@ -156,6 +156,14 @@
 </div>
 <br>
 
+<div style="display:flex; flex-direction:row;">
+  • YOLOv8 최적화를 통한 실시간 카메라 영상처리
+</div>
+<div style="display:flex; flex-direction:row;">
+  &nbsp&nbsp ONNX나 TensorRT(FP16, INT8)로 내보내고 실시간 카메라에 적용
+</div>
+<br>
+
 ## 🏆 Awards
 <div style="display:flex; flex-direction:row;">
   • 2021년 산림공공-빅데이터 활용 창업경진대회 (제품 및 서비스 개발부문 우수상)
