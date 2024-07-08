@@ -82,14 +82,6 @@
 
 ## 😆 Experience
 <div style="display:flex; flex-direction:row;">
-  • HCI 연구실
-</div>
-<div style="display:flex; flex-direction:row;">
-  &nbsp&nbsp 컴퓨터공학과 서버실
-</div>
-<br>
-
-<div style="display:flex; flex-direction:row;">
   • YOLOv8 최적화를 통한 실시간 카메라 영상처리
 </div>
 <div style="display:flex; flex-direction:row;">
@@ -106,17 +98,12 @@
 <br>
 
 <div style="display:flex; flex-direction:row;">
-  • D사 통합 관리 웹 서비스 개발
-</div>
-<br>
-
-<div style="display:flex; flex-direction:row;">
   • Sidewalk Obstacle Detection 모델 개발
 </div>
 <br>
 
 <div style="display:flex; flex-direction:row;">
-  • 간호 업무 지원 로봇(Care Mate) 개발에 관한 연구
+  • D사 통합 관리 웹 서비스 개발
 </div>
 <br>
 
@@ -131,12 +118,12 @@
 <br>
 
 <div style="display:flex; flex-direction:row;">
-  • Kuny Where 웹 서비스 개발
+  • 간호 업무 지원 로봇(Care Mate) 개발에 관한 연구
 </div>
 <br>
 
 <div style="display:flex; flex-direction:row;">
-  • 키오스크 로봇 개발
+  • Kuny Where 웹 서비스 개발
 </div>
 <br>
 
@@ -145,6 +132,11 @@
 </div>
 <div style="display:flex; flex-direction:row;">
   &nbsp&nbsp 자율주행 AI 모델 개발
+</div>
+<br>
+
+<div style="display:flex; flex-direction:row;">
+  • 키오스크 로봇 개발
 </div>
 <br>
 
@@ -161,6 +153,14 @@
 </div>
 <div style="display:flex; flex-direction:row;">
   &nbsp&nbsp 아두이노와 라즈베리파이를 활용한 미세먼지 농도 측정 및 웹 모니터링 서비스
+</div>
+<br>
+
+<div style="display:flex; flex-direction:row;">
+  • HCI 연구실
+</div>
+<div style="display:flex; flex-direction:row;">
+  &nbsp&nbsp 컴퓨터공학과 서버실
 </div>
 <br>
 
