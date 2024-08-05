@@ -69,7 +69,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,flask,ros,raspberrypi,arduino,firebase,mysql,vue,ubuntu,anaconda,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,flask,ros,raspberrypi,arduino,firebase,mysql,vue,ubuntu,anaconda,vscode&perline=6" />
   </a>
 </p>
 
