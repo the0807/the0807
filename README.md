@@ -22,6 +22,14 @@
 </div>
 <br>
 
+<div align = "center" style="display:flex; flex-direction:row;">
+  
+[![gmail](https://skillicons.dev/icons?i=gmail)](mailto:the0807.eom@gmail.com)
+[![notion](https://skillicons.dev/icons?i=notion)](http://the0807.notion.site)
+
+</div>
+
+<!--
 <div align = "center">
   <a href="mailto:the0807.eom@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/the0807.eom@gmail.com-d14836?logo=Gmail&logoColor=white&link=the0807.eom@gmail.com">
@@ -33,6 +41,7 @@
     <img src="https://img.shields.io/badge/Notion-181717?logo=Notion&logoColor=white">
   </a>
 </div>
+-->
 <br>
 
 ## 🎓 Education
@@ -57,6 +66,14 @@
 
 <!-- Stack -->
 ## 🛠️ Stacks
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,flask,ros,raspberrypi,arduino,firebase,mysql,vue,ubuntu,anaconda,vscode" />
+  </a>
+</p>
+
+<!--
 <div align = "center" style="display:flex; flex-direction:column; align-items:flex-start;">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/C/C++-3776AB?logo=C%2B%2B&logoColor=white"/>&nbsp
@@ -79,6 +96,7 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white">&nbsp
 </div>
 <br>
+-->
 
 ## 😆 Experience
 <div style="display:flex; flex-direction:row;">
