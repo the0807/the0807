@@ -29,19 +29,6 @@
 
 </div>
 
-<!--
-<div align = "center">
-  <a href="mailto:the0807.eom@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/the0807.eom@gmail.com-d14836?logo=Gmail&logoColor=white&link=the0807.eom@gmail.com">
-  </a>
-</div>
-
-<div align = "center">
-  <a href="http://the0807.notion.site" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Notion-181717?logo=Notion&logoColor=white">
-  </a>
-</div>
--->
 <br>
 
 ## 🎓 Education
@@ -73,32 +60,15 @@
   </a>
 </p>
 
-<!--
-<div align = "center" style="display:flex; flex-direction:column; align-items:flex-start;">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/C/C++-3776AB?logo=C%2B%2B&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=white">&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/Jetson-76B900?logo=nvidia&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?logo=Raspberry-Pi&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/Arduino-00878F?logo=Arduino&logoColor=white">&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white">&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=Ubuntu&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white">&nbsp
+## 😆 Experience
+<div style="display:flex; flex-direction:row;">
+  • 자율주행 인공지능 알고리즘 개발 챌린지
+</div>
+<div style="display:flex; flex-direction:row;">
+  &nbsp&nbsp Autonomous Driving Model 개발
 </div>
 <br>
--->
 
-## 😆 Experience
 <div style="display:flex; flex-direction:row;">
   • LG Aimers 5기
 </div>
