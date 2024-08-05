@@ -24,8 +24,8 @@
 
 <div align = "center" style="display:flex; flex-direction:row;">
   
-[![gmail](https://skillicons.dev/icons?i=gmail)](mailto:the0807.eom@gmail.com)
-[![notion](https://skillicons.dev/icons?i=notion)](http://the0807.notion.site)
+[![gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:the0807.eom@gmail.com)
+[![notion](https://skillicons.dev/icons?i=notion&theme=light)](http://the0807.notion.site)
 
 </div>
 
@@ -69,7 +69,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,flask,ros,raspberrypi,arduino,firebase,mysql,vue,ubuntu,anaconda,vscode&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,flask,ros,raspberrypi,arduino,firebase,mysql,vue,ubuntu,anaconda,vscode&theme=light&perline=6" />
   </a>
 </p>
 
