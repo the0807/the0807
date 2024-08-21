@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a45dc914-4b73-4bc0-bf3a-929263d0984f)![image](https://github.com/user-attachments/assets/39486d2c-5be9-4924-88da-3f1369eaed1f)<!-- 인사 -->
+<!-- 인사 -->
 <div align = "center">
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=0:43cea2,100:185a9d&fontColor=f7f5f5&text=Welcome%20to%20Taehyun's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
