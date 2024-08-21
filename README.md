@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/39486d2c-5be9-4924-88da-3f1369eaed1f)<!-- 인사 -->
+![image](https://github.com/user-attachments/assets/a45dc914-4b73-4bc0-bf3a-929263d0984f)![image](https://github.com/user-attachments/assets/39486d2c-5be9-4924-88da-3f1369eaed1f)<!-- 인사 -->
 <div align = "center">
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=0:43cea2,100:185a9d&fontColor=f7f5f5&text=Welcome%20to%20Taehyun's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
@@ -67,6 +67,7 @@
 | 2023.04 ~ 2023.05 | ChatGPT 영화 평점/요약 검색 웹 서비스 개발 | Langchain과 ChatGPT를 활용하여 영화의 평점과 요약을 검색할 수 있는 웹 서비스 | - | [Notion](https://the0807.notion.site/96142016cc1141fa800665d9e152d877?p=8f4ca5fd005b4df8b415c28cf89a6c3f&pm=c) |
 | 2023.03 ~ 2023.10 | 간호 업무 지원 로봇(Care Mate) 개발에 관한 연구 | 간호 업무를 지원해주는 로봇 개발 | 학사 졸업작품 | [Notion](https://the0807.notion.site/96142016cc1141fa800665d9e152d877?p=5e62154eb01f4058a17baf3db6895f4a&pm=c) |
 | 2022.05 ~ 2022.06 | Kuny Where 웹 서비스 개발 | 졸업 요건을 채웠는지 확인하는 웹 서비스 | - | [Notion](https://the0807.notion.site/96142016cc1141fa800665d9e152d877?p=a4a7201eb6e744ddbd00ad451f80eb3b&pm=c) |
+| 2021.12 | 자율배송 운행데이터 데이터톤 2021 | 자율주행 AI 모델 개발(Mask R-CNN 활용 | 공모전 | [Notion](https://the0807.notion.site/96142016cc1141fa800665d9e152d877?p=82a3a682636347459a850fd24d562416&pm=c) |
 | 2021.05 ~ 2021.06 | 2021년 산림공공·빅데이터 활용 창업경진대회 | FVS(Forest VR Service) 웹 서비스 개발 | 공모전 | [Notion](https://the0807.notion.site/96142016cc1141fa800665d9e152d877?p=cd759e8b032f48028898a14260454e1c&pm=c) |
 | 2021.01 ~ 2023.12 | 컴퓨터공학과 서버실 | 학과 실습 서버 구축 및 관리 | 서버장 활동 | [Notion](https://the0807.notion.site/96142016cc1141fa800665d9e152d877?p=522a1dd7ef5548ec823133a00d7f223a&pm=c) |
 | 2021.01 ~ | HCI 연구실 | 인간컴퓨터상호작용 연구실 | - | [Notion](https://the0807.notion.site/96142016cc1141fa800665d9e152d877?p=48aad74d4c124c7e910eb6bf6cb017b0&pm=c) |
