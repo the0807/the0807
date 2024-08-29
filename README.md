@@ -57,7 +57,7 @@
 | :------: | :------: | :------: | :------: |
 | 2024.07 ~ 2024.09 | 자율주행 인공지능 알고리즘 개발 챌린지 | Autonomous Driving Model 개발 (YOLOv8, DeepLabV3+ 활용) | [GitHub](https://github.com/the0807/Autonomous-Driving-Model) |
 | 2024.07 | 오픈캠퍼스 | 지역 고등학생(충주 고등학교) 대상 컴퓨터공학과 체험 및 특강 진행 | - |
-| 2024.07 ~ 2024.08 | LG Aimers 5기 | AI 교육 및 해커톤 | [GitHub](https://github.com/the0807/LG-Aimers-5th) |
+| 2024.07 ~ 2024.08 | LG Aimers 5기 | 제품 이상 여부 판별 모델 개발 | [GitHub](https://github.com/the0807/LG-Aimers-5th) |
 | 2024.05 ~ 2024.06 | YOLOv8 최적화를 통한 실시간 카메라 영상처리 | YOLOv8을 ONNX나 TensorRT(FP16, INT8)로 내보내고 실시간 카메라에 적용 | [GitHub](https://github.com/the0807/YOLOv8-ONNX-TensorRT) |
 | 2024.05 ~ 2024.06 | 2024 국토·교통 데이터 활용 경진대회 | KUMap 웹 서비스 개발 | [Notion](https://the0807.notion.site/96142016cc1141fa800665d9e152d877?p=4768de3ea9014edf877c80163ba35899&pm=c) |
 | 2024.04 ~ 2024.05 | 2024 서울 열린데이터광장 공공데이터 활용 창업경진대회 | Greenery : AI를 활용한 분리 배출 방법 안내 앱 개발 | [Notion](https://the0807.notion.site/96142016cc1141fa800665d9e152d877?p=a877d6327a1a4af4b190eee3c058c568&pm=c) |
