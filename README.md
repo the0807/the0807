@@ -55,7 +55,7 @@
 
 | 기간 | 활동명 | 내용 | 링크 |
 | :------: | :------: | :------: | :------: |
-| 2024.11 | 별빛 창작소 웹 서비스 개발 | 유치원생 대상 생성형 AI를 활용한 나만의 동화책 만들기 | [GitHub](https://github.com/the0807/Starlight-Studio-BackEnd) |
+| 2024.11 | 별빛 창작소 웹 서비스 개발 | 유치원생 대상 생성형 AI를 활용한 나만의 동화책 만들기 웹 서비스 | [GitHub](https://github.com/the0807/Starlight-Studio-BackEnd) |
 | 2024.08 ~ 2025.01 | 특수학교 디지털 교과 지원 강사 | 숭덕학교에서 AI를 활용한 SW 교육 진행 | - |
 | 2024.07 ~ 2024.09 | 자율주행 인공지능 알고리즘 개발 챌린지 | Autonomous Driving Model 개발 (YOLOv8, DeepLabV3+ 활용) | [GitHub](https://github.com/the0807/Autonomous-Driving-Model) |
 | 2024.07 | 오픈캠퍼스 | 지역 고등학생(충주 고등학교) 대상 컴퓨터공학과 체험 및 특강 진행 | - |
