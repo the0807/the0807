@@ -55,13 +55,15 @@
 
 | 기간 | 활동명 | 내용 | 링크 |
 | :------: | :------: | :------: | :------: |
+| 2024.11 | 별빛 창작소 웹 서비스 개발 | 유치원생 대상 생성형 AI를 활용한 나만의 동화책 만들기 | [GitHub](https://github.com/the0807/Starlight-Studio-BackEnd) |
+| 2024.08 ~ 2025.01 | 특수학교 디지털 교과 지원 강사 | 숭덕학교에서 AI를 활용한 SW 교육 진행 | - |
 | 2024.07 ~ 2024.09 | 자율주행 인공지능 알고리즘 개발 챌린지 | Autonomous Driving Model 개발 (YOLOv8, DeepLabV3+ 활용) | [GitHub](https://github.com/the0807/Autonomous-Driving-Model) |
 | 2024.07 | 오픈캠퍼스 | 지역 고등학생(충주 고등학교) 대상 컴퓨터공학과 체험 및 특강 진행 | - |
 | 2024.07 ~ 2024.08 | LG Aimers 5기 | 제품 이상 여부 판별 모델 개발 | [Notion](https://the0807.notion.site/96142016cc1141fa800665d9e152d877?p=cd4b0e16808e40cdb5d32bc802270411&pm=c) |
 | 2024.05 ~ 2024.06 | YOLOv8 최적화를 통한 실시간 카메라 영상처리 | YOLOv8을 ONNX나 TensorRT(FP16, INT8)로 내보내고 실시간 카메라에 적용 | [GitHub](https://github.com/the0807/YOLOv8-ONNX-TensorRT) |
 | 2024.05 ~ 2024.06 | 2024 국토·교통 데이터 활용 경진대회 | KUMap 웹 서비스 개발 | [Notion](https://the0807.notion.site/96142016cc1141fa800665d9e152d877?p=4768de3ea9014edf877c80163ba35899&pm=c) |
 | 2024.04 ~ 2024.05 | 2024 서울 열린데이터광장 공공데이터 활용 창업경진대회 | Greenery : AI를 활용한 분리 배출 방법 안내 앱 개발 | [Notion](https://the0807.notion.site/96142016cc1141fa800665d9e152d877?p=a877d6327a1a4af4b190eee3c058c568&pm=c) |
-| 2024.03 ~ 2024.06 | 특수학교 재능기부 봉사 | 숭덕학교에서 AI를 활용한 SW 교육 진행 | - |
+| 2024.03 ~ 2024.06 | 특수학교 동아리 활동 재능기부 봉사 | 숭덕학교에서 AI를 활용한 SW 교육 진행 | - |
 | 2024.01 | Sidewalk Obstacle Detection 모델 개발 | YOLOv8을 이용한 Sidewalk Obstacle Detection 모델 개발 | [GitHub](https://github.com/the0807/Sidewalk-Obstacle-Detection) |
 | 2023.07 ~ 2024.07 | D사 통합 관리 웹 서비스 개발 | D사의 엘리베이터 통합 관리 웹 사이트 개발 | [Notion](https://the0807.notion.site/96142016cc1141fa800665d9e152d877?p=ef19048830d341ce8719b514f4136dde&pm=c) |
 | 2023.04 ~ 2023.05 | ChatGPT 영화 평점/요약 검색 웹 서비스 개발 | Langchain과 ChatGPT를 활용하여 영화의 평점과 요약을 검색할 수 있는 웹 서비스 | [Notion](https://the0807.notion.site/96142016cc1141fa800665d9e152d877?p=8f4ca5fd005b4df8b415c28cf89a6c3f&pm=c) |
