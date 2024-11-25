@@ -15,31 +15,39 @@
     <img height=200 align="center" src="https://github-readme-stats-the0807s-projects.vercel.app/api?username=the0807&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&rank_icon=github&custom_title=Git%20Stats&theme=transparent" />
     <img height=200 align="center" src="https://github-readme-stats-the0807s-projects.vercel.app/api/top-langs?username=the0807&layout=compact&langs_count=8&hide_border=true&card_width=320&count_private=true&theme=transparent" />
   </a>
-
-  <!--
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=the0807)](https://solved.ac/the0807/)
-  -->
 </div>
 <br>
 
+<!-- 
 <div align = "center" style="display:flex; flex-direction:row;">
   
 [![gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:the0807.eom@gmail.com)
 [![notion](https://skillicons.dev/icons?i=notion&theme=light)](http://the0807.notion.site)
 
 </div>
+-->
 
 <br>
 
 ## 🎓 Education
-<div align = "center" style="display:flex; flex-direction:row;">
-
-| 기간 | 학교 | 전공 | 학위 |
-| :------: | :------: | :------: | :------: |
-| 2024.03 ~ | 건국대학교 글로컬캠퍼스 | 컴퓨터공학전공 | 석사 |
-| 2019.03 ~ 2024.02 | 건국대학교 글로컬캠퍼스 | ICT융합공학부 소프트웨어전공 | 학사 |
-
+<div style="display:flex; flex-direction:row;">
+  Konkuk University Glocal Campus
 </div>
+<br>
+<div style="display:flex; flex-direction:row;">
+  • BS
+</div>
+<div style="display:flex; flex-direction:row;">
+  &nbsp&nbsp Computer Engineering (2019.03 ~ 2024.02)
+</div>
+<br>
+<div style="display:flex; flex-direction:row;">
+  • Master
+</div>
+<div style="display:flex; flex-direction:row;">
+  &nbsp&nbsp Computer Engineering (2024.03 ~ )
+</div>
+<br>
 
 <!-- Stack -->
 ## 🛠️ Stacks
@@ -50,7 +58,8 @@
   </a>
 </p>
 
-## 😆 Experience
+<!--
+## 😆 Experiences
 <div align = "center" style="display:flex; flex-direction:row;">
 
 | 기간 | 활동명 | 내용 | 링크 |
@@ -75,7 +84,17 @@
 | 2021.01 ~ | HCI 연구실 | 인간컴퓨터상호작용 연구실 | [Notion](https://the0807.notion.site/96142016cc1141fa800665d9e152d877?p=48aad74d4c124c7e910eb6bf6cb017b0&pm=c) |
 
 </div>
+-->
 
+## 😆 More about me
+<div align = "center" style="display:flex; flex-direction:row;">
+
+[![notion](https://skillicons.dev/icons?i=notion&theme=light)](http://the0807.notion.site)
+[![gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:the0807.eom@gmail.com)
+
+</div>
+
+<!--
 ## 🏆 Awards
 <div align = "center" style="display:flex; flex-direction:row;">
 
@@ -85,7 +104,7 @@
 | 2021년 산림공공-빅데이터 활용 창업경진대회 | 산림청 | FVS(Forest VR Service) 웹 서비스 개발 | 제품 및 서비스 개발부문 | 우수상 |
 
 </div>
-
+-->
 
 <!--
 **the0807/the0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
