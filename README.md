@@ -31,7 +31,7 @@
 
 ## 🎓 Education
 <div style="display:flex; flex-direction:row;">
-  Konkuk University Glocal Campus
+  Konkuk University GLOCAL Campus
 </div>
 <br>
 <div style="display:flex; flex-direction:row;">
