@@ -26,17 +26,17 @@
 </div>
 <br>
 <div style="display:flex; flex-direction:row;">
-  • BS
-</div>
-<div style="display:flex; flex-direction:row;">
-  &nbsp&nbsp Computer Engineering (2019.03 ~ 2024.02)
-</div>
-<br>
-<div style="display:flex; flex-direction:row;">
   • Master
 </div>
 <div style="display:flex; flex-direction:row;">
   &nbsp&nbsp Computer Engineering (2024.03 ~ )
+</div>
+<br>
+<div style="display:flex; flex-direction:row;">
+  • BS
+</div>
+<div style="display:flex; flex-direction:row;">
+  &nbsp&nbsp Computer Engineering (2019.03 ~ 2024.02)
 </div>
 <br>
 
