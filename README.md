@@ -12,8 +12,6 @@
 </div>
 <br>
 
-<br>
-
 ## 🎓 Education
 <div style="display:flex; flex-direction:row;">
   Konkuk University GLOCAL Campus
