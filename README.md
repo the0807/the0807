@@ -7,8 +7,8 @@
 
 <!-- 상태 카드 -->
 <div align = "center" style="display:flex; flex-direction:row;">
-  <img align="center" src="https://github-readme-stats-the0807s-projects.vercel.app/api?username=the0807&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&rank_icon=github&custom_title=Git%20Stats&theme=transparent" width="45%" />
-  <img align="center" src="https://github-readme-stats-the0807s-projects.vercel.app/api/top-langs?username=the0807&layout=compact&langs_count=8&hide_border=true&card_width=320&count_private=true&theme=transparent" width="37%" />
+  <img align="center" src="https://github-readme-stats-the0807s-projects.vercel.app/api?username=the0807&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&rank_icon=github&custom_title=Git%20Stats&theme=transparent" width="49%" />
+  <img align="center" src="https://github-readme-stats-the0807s-projects.vercel.app/api/top-langs?username=the0807&layout=compact&langs_count=8&hide_border=true&card_width=320&count_private=true&theme=transparent" width="41%" />
 </div>
 <br>
 
