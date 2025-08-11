@@ -21,7 +21,7 @@
   • Master
 </div>
 <div style="display:flex; flex-direction:row;">
-  &nbsp&nbsp Computer Engineering (2024.03 ~ 2025.08(Expected))
+  &nbsp&nbsp Computer Engineering (2024.03 ~ 2025.08)
 </div>
 <br>
 <div style="display:flex; flex-direction:row;">
