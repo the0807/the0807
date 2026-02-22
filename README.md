@@ -12,6 +12,7 @@
 </div>
 <br>
 
+<!--
 ## 🎓 Education
 <div style="display:flex; flex-direction:row;">
   Konkuk University GLOCAL Campus
@@ -31,24 +32,27 @@
   &nbsp&nbsp Computer Engineering (2019.03 ~ 2024.02)
 </div>
 <br>
+-->
 
-<!-- Stack -->
+<!-- 
 ## 🛠️ Stacks
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,flask,ros,raspberrypi,arduino,firebase,mysql,vue,ubuntu,anaconda,vscode&theme=light&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,docker,kubernetes,pytorch,fastapi,ros,raspberrypi,arduino,ubuntu&theme=light&perline=6" />
   </a>
 </p>
+-->
 
-## 😆 More about me
+<!-- 
+## 😆 Contact me
 <div align = "center" style="display:flex; flex-direction:row;">
 
 [![notion](https://skillicons.dev/icons?i=notion&theme=light)](http://the0807.notion.site)
 [![gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:the0807.eom@gmail.com)
 
 </div>
-
+-->
 
 <!--
 **the0807/the0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
