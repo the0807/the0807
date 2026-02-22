@@ -44,15 +44,13 @@
 </p>
 -->
 
-<!-- 
 ## 😆 Contact me
 <div align = "center" style="display:flex; flex-direction:row;">
 
-[![notion](https://skillicons.dev/icons?i=notion&theme=light)](http://the0807.notion.site)
+<!-- [![notion](https://skillicons.dev/icons?i=notion&theme=light)](http://the0807.notion.site) -->
 [![gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:the0807.eom@gmail.com)
 
 </div>
--->
 
 <!--
 **the0807/the0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
